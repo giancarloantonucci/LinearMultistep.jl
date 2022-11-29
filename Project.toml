@@ -1,4 +1,4 @@
-name = "LinearMultistep"
+name = "NSDELinearMultistep"
 uuid = "6991faac-6e0a-407a-9214-ea0dabeacbe6"
 authors = ["Giancarlo A. Antonucci"]
 version = "0.1.0"
