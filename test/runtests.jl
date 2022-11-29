@@ -1,6 +1,6 @@
-using LinearMultistep
+using NSDELinearMultistep
 using Test
 
-@testset "LinearMultistep.jl" begin
+@testset "NSDELinearMultistep.jl" begin
     # Write your tests here.
 end
